@@ -49,4 +49,4 @@ Zebra to House:
 
 ![img](https://github.com/WoshidaCaiB/Cyclegan-Tensorflow/blob/master/img/B13.png) ![img](https://github.com/WoshidaCaiB/Cyclegan-Tensorflow/blob/master/img/A13.png)
 
-The model does not generate results well. During training, I found the Discriminator A (discriminating the images of horse) is very powerful and always defer the fake horse images. This makes the discriminator unable to help generator(horse to zebra) converge. 
+The model does not generate results well. During training, I found the Discriminator A (discriminating the images of horse) is very powerful and always defer the fake horse images. This makes the discriminator unable to help generator(zebra to horse) converge. 
